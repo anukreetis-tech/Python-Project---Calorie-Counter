@@ -1,4 +1,5 @@
 **CALORIE COUNTER**
+
 This is a simple command-line calorie tracking application built in Python. It allows users to set a daily calorie goal and log consumed food items from a predefined database of popular food items.
 
 FEATURES
