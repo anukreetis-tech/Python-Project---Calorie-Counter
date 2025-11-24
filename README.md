@@ -53,3 +53,15 @@ Allow users to add new food items to the database dynamically.
 Save the daily log to a file (CSV or JSON) for persistence across sessions.
 
 Use an external API (like USDA or similar nutrition services) for a vast and accurate database of food items.
+
+SCREENSHOTS
+
+<img width="692" height="866" alt="Screenshot 2025-11-25 011333" src="https://github.com/user-attachments/assets/4a7399b4-a622-4425-b567-43b803ef5ede" />
+
+<img width="691" height="938" alt="Screenshot 2025-11-25 011405" src="https://github.com/user-attachments/assets/10d76735-9a88-41b1-9814-ee3d845460d8" />
+
+<img width="693" height="938" alt="Screenshot 2025-11-25 011428" src="https://github.com/user-attachments/assets/6f646e59-6a27-4032-a677-49d964a4dc67" />
+
+<img width="698" height="938" alt="Screenshot 2025-11-25 011511" src="https://github.com/user-attachments/assets/d69733ce-c716-4006-9a23-e2f674c887fa" />
+
+<img width="692" height="939" alt="Screenshot 2025-11-25 011539" src="https://github.com/user-attachments/assets/f5391943-5583-4b01-8b16-fdb683402a89" />
